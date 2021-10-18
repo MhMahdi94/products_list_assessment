@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# Aim:
+
+Interview Assessment
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
