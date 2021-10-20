@@ -1,10 +1,15 @@
 # product_list_assessment
 
-A new Flutter project.
+A Flutter Project to get Products List from mock server (in this project i have used https://fakestoreapi.com/products) and select
+items to add to Cart then send check it and send confirm request (in app as Toast Notify)
+
+# State Mangement
+
+I have Used Provider Managment way
 
 # Aim:
 
-Interview Assessment
+Interview Assessment for Limitless Company
 
 ## Getting Started
 
