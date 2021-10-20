@@ -1,10 +1,10 @@
 class Product {
-  String? name;
+  String? title;
   double? price;
   String? imagePath;
 
   Product({
-    this.name,
+    this.title,
     this.price,
     this.imagePath,
   });
